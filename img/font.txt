@@ -1,0 +1,5 @@
+- CREATE AN ACCOUNT: [TYPOGRAPHPRO] - 16.11pt
+- Sign me up: [TYPOGRAPHPRO] - 16.11pt
+- input: [MyriadPro] - 11.11pt
+- Already have an account ?: [MyriadPro] - 8pt
+- Login Here: [MyriadPro] - 8pt

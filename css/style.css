@@ -1,0 +1,80 @@
+@import url('myriad-pro/style.css');
+@import url('typeprototype/typeprototype.css');
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: #0ea7e7;
+  text-decoration: none;
+}
+body {
+  color: #cccaca;
+  font: 11.16pt Myriad Pro Regular;
+}
+.wrapper {
+  background: url("../img/bg.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+  padding: 130px 0;
+}
+.wrapper .box {
+  background: none repeat scroll 0 0 #fff;
+  border-radius: 10px;
+  margin: auto;
+  overflow: hidden;
+  width: 760px;
+}
+.wrapper .box h1 {
+  background: none repeat scroll 0 0 #0ea7e7;
+  border-bottom: 2px solid #ea484e;
+  color: #fff;
+  font: 16.11pt/95px typograph_prolight;
+  height: 95px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.wrapper .box .frm {
+  padding: 78px 94px 45px;
+}
+.wrapper .box .frm .cols {
+  margin: 0 0 50px;
+}
+.wrapper .box .frm .cols .wrap-input {
+  border: 1px solid #b7b7b7;
+  border-radius: 5px;
+  height: 68px;
+}
+.wrapper .box .frm .cols .wrap-input .inner {
+  padding: 0 25px;
+}
+.wrapper .box .frm .cols .wrap-input .inner input {
+  border: 0 none;
+  display: block;
+  font: 11.11pt Myriad Pro Regular;
+  height: 68px;
+  width: 100%;
+}
+.wrapper .box .frm .cols.cols2 {
+  overflow: hidden;
+}
+.wrapper .box .frm .cols.cols2 .wrap-input {
+  float: left;
+  width: 251px;
+}
+.wrapper .box .frm .cols.cols2 .wrap-input.last {
+  clear: right;
+  float: right;
+}
+.wrapper .box .frm .frm-footer {
+  text-align: center;
+}
+.wrapper .box .frm .frm-footer [type="submit"] {
+  background: none repeat scroll 0 0 #ea484e;
+  border: 0 none;
+  border-radius: 5px;
+  color: #fff;
+  font: 16.11pt typograph_prolight;
+  height: 68px;
+  margin: 0 0 15px;
+  width: 251px;
+}
+/*# sourceMappingURL=style.css.map */

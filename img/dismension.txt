@@ -1,0 +1,6 @@
+- box: 760x755
+- box-padding: 78px 94px 45px 94px
+- input: 251x68
+- input-margin: 0 0 50px
+- input-large: 578x68
+- submit: 251x68
